@@ -28,4 +28,3 @@ Contributions are welcome! If you'd like to contribute to DevFolio, please fork 
 If you have any questions or suggestions regarding DevFolio, feel free to contact the project owner:
 - Marwan Magdy
 - Email: marawanmagdy389@gmail.com
-- GitHub: [marwanmagdy72](https://github.com/marwanmagdy72)
