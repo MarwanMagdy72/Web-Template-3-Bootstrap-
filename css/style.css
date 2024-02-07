@@ -659,6 +659,7 @@ footer {
     -webkit-transition: all .5s;
     -o-transition: all .5s;
     transition: all .5s;
+    z-index: 9999999!important;
 
 }
 
@@ -681,3 +682,5 @@ footer {
     background: -o-linear-gradient(top, white, black);
     background: linear-gradient(to bottom, white, black);
 }
+
+
