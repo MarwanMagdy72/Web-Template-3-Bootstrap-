@@ -50,7 +50,7 @@
 
 
 header {
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url(../images/Spiderman.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -682,5 +682,4 @@ footer {
     background: -o-linear-gradient(top, white, black);
     background: linear-gradient(to bottom, white, black);
 }
-
 
